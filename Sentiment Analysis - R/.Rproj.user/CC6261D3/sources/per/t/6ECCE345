@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613658851383.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6ECCE345",
+    "lastKnownWriteTime" : 31244173393002613,
+    "last_content_update" : 1613658851383,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CB5E1037",
+        "caption" : "covid19_tweets",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=covid19_tweets&cache_key=CB5E1037",
+        "displayedObservations" : 183930,
+        "environment" : "",
+        "object" : "covid19_tweets",
+        "preview" : 0,
+        "totalObservations" : 183930,
+        "variables" : 13
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
